@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 573
+# TOTAL: 575
 
 payload:
   - DOMAIN-KEYWORD,m-team
@@ -42,6 +42,7 @@ payload:
   - DOMAIN-SUFFIX,8kc.top
   - DOMAIN-SUFFIX,900cha.com
   - DOMAIN-SUFFIX,91shenfan.com
+  - DOMAIN-SUFFIX,97973399.com
   - DOMAIN-SUFFIX,985hezi.com
   - DOMAIN-SUFFIX,998tool.com
   - DOMAIN-SUFFIX,a0d.top
@@ -79,6 +80,7 @@ payload:
   - DOMAIN-SUFFIX,baiyishequ.com
   - DOMAIN-SUFFIX,banban.work
   - DOMAIN-SUFFIX,bangumi.tv
+  - DOMAIN-SUFFIX,batchat.com
   - DOMAIN-SUFFIX,bdcb.cc
   - DOMAIN-SUFFIX,beautifulcarrot.com
   - DOMAIN-SUFFIX,belimked.com
@@ -87,6 +89,7 @@ payload:
   - DOMAIN-SUFFIX,biandangroup.com
   - DOMAIN-SUFFIX,biaoda.me
   - DOMAIN-SUFFIX,bingshandashu.com
+  - DOMAIN-SUFFIX,bjssjsyy.com
   - DOMAIN-SUFFIX,bjtzeduyun.com
   - DOMAIN-SUFFIX,bochaai.com
   - DOMAIN-SUFFIX,bochk.com
@@ -344,7 +347,6 @@ payload:
   - DOMAIN-SUFFIX,mifeng.plus
   - DOMAIN-SUFFIX,mifon.com
   - DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
-  - DOMAIN-SUFFIX,misea.top
   - DOMAIN-SUFFIX,mixly.org
   - DOMAIN-SUFFIX,mobai.sbs
   - DOMAIN-SUFFIX,modelscope.net
@@ -361,7 +363,6 @@ payload:
   - DOMAIN-SUFFIX,natchecker.com
   - DOMAIN-SUFFIX,neihang.net
   - DOMAIN-SUFFIX,netzz.net
-  - DOMAIN-SUFFIX,nhk.or.jp
   - DOMAIN-SUFFIX,nicezhuanye.com
   - DOMAIN-SUFFIX,nkxingxh.top
   - DOMAIN-SUFFIX,nn.ci
@@ -396,7 +397,6 @@ payload:
   - DOMAIN-SUFFIX,pool.ntp.org
   - DOMAIN-SUFFIX,powershellgallery.com
   - DOMAIN-SUFFIX,privateapi.xyz
-  - DOMAIN-SUFFIX,ptl.gs
   - DOMAIN-SUFFIX,ptlgs.org
   - DOMAIN-SUFFIX,pwithe.com
   - DOMAIN-SUFFIX,qianfan.app
@@ -441,6 +441,7 @@ payload:
   - DOMAIN-SUFFIX,sksight.com
   - DOMAIN-SUFFIX,snfox.com
   - DOMAIN-SUFFIX,snltty.com
+  - DOMAIN-SUFFIX,soulteary.com
   - DOMAIN-SUFFIX,sptv.ii00.cc
   - DOMAIN-SUFFIX,ssjj2.com
   - DOMAIN-SUFFIX,starlink.uno
@@ -463,6 +464,7 @@ payload:
   - DOMAIN-SUFFIX,theluyuan.com
   - DOMAIN-SUFFIX,thinkerride.com
   - DOMAIN-SUFFIX,thmnet.com
+  - DOMAIN-SUFFIX,tianlala.com
   - DOMAIN-SUFFIX,timbrd.com
   - DOMAIN-SUFFIX,tixue.net
   - DOMAIN-SUFFIX,tmallyc.com
